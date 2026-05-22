@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasStevan&theme=tokyonight" alt="GitHub profile details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasStevan&theme=tokyonight&v=2" alt="GitHub profile details" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasStevan&theme=tokyonight" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasStevan&theme=tokyonight" alt="Top languages" />
