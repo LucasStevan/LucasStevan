@@ -118,6 +118,5 @@ My interests connect backend development, machine learning, cybersecurity, block
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Stevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasoliveirago/)
 [![GitHub](https://img.shields.io/badge/GitHub-LucasStevan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasStevan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/LucasStevan/sitepessoal)
 
 </div>
